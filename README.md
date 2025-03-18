@@ -1,6 +1,6 @@
-# Nuxt Minimal Starter
+# classSuffix reproduction
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a minimal reproduction to highlight the problem as described in https://github.com/nuxt-modules/color-mode/issues/314.
 
 ## Setup
 
@@ -71,5 +71,3 @@ yarn preview
 # bun
 bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
